@@ -1,4 +1,4 @@
-def reverse_each_word_each(string)
+def reverse_each_word(string)
   reversed_phrase = []
   split_phrase = string.split
   split_phrase.each do |word|
